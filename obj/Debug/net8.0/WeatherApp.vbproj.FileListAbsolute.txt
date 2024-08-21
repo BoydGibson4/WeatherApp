@@ -1,0 +1,17 @@
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\WeatherApp.exe
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\WeatherApp.deps.json
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\WeatherApp.dll
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\WeatherApp.pdb
+C:\Users\Boyd\WeatherApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.vbproj.AssemblyReference.cache
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfo.vb
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.vbproj.CoreCompileInputs.cache
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.vbproj.Up2Date
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.dll
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\refint\WeatherApp.dll
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.pdb
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
+C:\Users\Boyd\WeatherApp\obj\Debug\net8.0\ref\WeatherApp.dll
